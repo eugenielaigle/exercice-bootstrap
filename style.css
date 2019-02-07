@@ -1,0 +1,13 @@
+.image-back{
+  background-image: url("52.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  filter: brightness(20%);
+  height: 100vh;
+}
+
+.section{
+  top: 0;
+  left: 0;
+}
